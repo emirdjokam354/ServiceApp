@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServiceApp</string>
+    <string name="heading">Service In Android</string>
+    <string name="startButtonText">Start the Service</string>
+    <string name="stopButtonText">Stop the Service</string>
+</resources>
